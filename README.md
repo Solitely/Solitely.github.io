@@ -1,0 +1,2 @@
+# solitely.github.io
+template
